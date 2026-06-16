@@ -1,14 +1,12 @@
 # Mark-Fastner
 [LinkedIn](https://www.linkedin.com/in/mark-fastner-3641a0201/)
 
+<h1>Projects & Contributions</h1>
+## [AI Finance Tracker](https://github.com/markfastner/AI-Finance-Tracker)
+<img width="2562" height="1506" alt="Screenshot 2026-06-15 221744" src="https://github.com/user-attachments/assets/e699a045-10a3-4f84-ae1b-fbe37302524a" />
+<p>A local-first personal finance dashboard for syncing bank transactions, organizing spending, reviewing categories, tracking investments, and asking natural-language questions about a private ledger.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markfastner&hide=jupyter%20notebook,html)
-
-
-[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markfastner)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<h1>Notable Projects & Contributions</h1>
+The project is built as a personal version of tools like Rocket Money: connect accounts, pull in real transactions, clean up messy merchant/category data, and turn the ledger into useful monthly insights. It currently supports bank transaction sync through Plaid, investment sync through SnapTrade/Plaid investment routes, CSV import, custom categories and tags, analytics dashboards, AI-assisted transaction review, and an AI-powered question layer.</p>
 
 ## [Movie Watchlist Website](https://runtime-website.vercel.app/)![Screenshot 2023-09-11 130358](https://github.com/markfastner/markfastner/assets/61805261/7fb52163-0f7c-48b7-918e-ac24802cc3f3)
 
@@ -16,13 +14,5 @@
 <p>Languages: Javascript, HTML, CSS</p>
 <p>Technologies: React, Tailwind, openai api, TMDB api(movies database)</p>
 
-## [The Great Dalmuti](https://github.com/markfastner/The-Great-Dalmuti) 
-<img src="https://github.com/markfastner/markfastner/assets/61805261/1e201dfa-8a19-4b77-b868-3868a4ca72c3" width="200" height="200">
-
- ![Screenshot 2023-09-11 130915](https://github.com/markfastner/markfastner/assets/61805261/65a515f7-f554-46a7-8c05-bad29f4f070a)
-
-<p>The Great Dalmuti is a card game that I have played with my family for years. I wanted to have the ability to play my favorite game anywhere in the world so I developed a console version of the game that allows for multiple players to play. The game creates a deck of cards and deals them to all players. Players can then play and make decisions through the console. To play the game please clone the repo and run the tester class</p>
-<p>Languages: Java</p>
-<p>Technologies: Object Oriented Programming, Collections, ArrayLists</p>
 
 
